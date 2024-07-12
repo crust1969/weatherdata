@@ -29,5 +29,5 @@ if st.button('Get Weather Data'):
 
 # Run the Streamlit app
 
-if __name__ == '__main__':
+if __name__ == '__get_weather_data__':
     main()
